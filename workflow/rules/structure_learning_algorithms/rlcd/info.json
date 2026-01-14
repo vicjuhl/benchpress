@@ -1,0 +1,20 @@
+{
+    "title": "rlcd",
+    "version": "1.0.0",
+    "package": {},
+    "docs_url": "",
+    "outputs": "adjmat",
+    "graph_types": [
+        "DAG"
+    ],
+    "language": "Python",
+    "title_full": "RLCD",
+    "meta_description": "",
+    "data_types": [
+        "continuous"
+    ],
+    "data_missingness": [],
+    "intervention_types": [],
+    "mcmc": false,
+    "edge_constraints": false
+}
